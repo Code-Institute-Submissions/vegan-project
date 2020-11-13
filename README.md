@@ -1,3 +1,4 @@
+Jakub994/vegan-project
 
 # H1 Jakub Ostaszewski
 ### H3 My first User Centric Frontend Development Milestone Project for Code Institute.

@@ -6,8 +6,6 @@
 }
 
 body {
-    background: url(img/logo/vegetables.jpg)
-    no-repeat center center fixed;
     background-size: cover;
     font-family: sans-serif;
 }
@@ -78,11 +76,6 @@ img{
     font-family: cursive;
     padding-left: 30px;
 }
-.rooms {
-    text-align: center;
-    text-emphasis: none;
-    padding-left: 30px;
-    }
 
 footer{
     color: rgb(0, 0, 0);
@@ -101,36 +94,8 @@ footer{
     font-size: 20px;
     font-family: sans-serif;
 }
-.drink{
-    color: rgb(238, 13, 13);
-    font-size: 25px;
-}
-.shareplate{
-    color: rgb(208, 243, 7);
-    font-size: 25px;
-}
-.main{
-    color: rgb(29, 247, 9);
-    font-size: 25px; }
-
-.container2{
-    width: 40%;
-    text-align: center;
-    margin: auto;
-    overflow: hidden;
-    padding: 1rem;
-    border-radius: 10px;
-    margin-top: 7%;
-}
 hr{
     width: 80%;
-}
-.register{
-    padding: 0.5rem 2rem;
-    color: #ffffff;
-    background-color: rgb(60, 106, 255);
-    border:none;
-    border-radius: 5px;
 }
 a{
     text-decoration: none;
@@ -150,6 +115,18 @@ width: auto;
     width: 50%;
     border-radius: 7px;
     border: none;
+}
+.Opening{
+    text-align: center;
+    font-size: 30px;
+    border: 0%;
+}
+.time{
+    width: 30%;
+    border:0%;
+    font-size: 26px;
+    margin: 20%;
+    color: #08531f;
 }
 
 

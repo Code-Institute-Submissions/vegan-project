@@ -1,13 +1,13 @@
 Jakub994/vegan-project
 
-# H1 Jakub Ostaszewski
-### H3 My first User Centric Frontend Development Milestone Project for Code Institute.
+# Jakub Ostaszewski
+##  My first User Centric Frontend Development Milestone Project for Code Institute.
 I was required to create a Milestone Project based on everything I learned so far.
 The project will consist of a blog website, and I will be using the first three modules of the course, mainly. 
 In this case, I am going to use HDML for the writing, CSS to design the website itself and Bootstrap
 in order to build a mobile version.
 
-## H2 UXac
+# UXac
 
 The content creator of the website is a vegan activist who wants to share helpful information, such as 
 food recipes, activism events' times and locations, tips for sustainability...
@@ -18,15 +18,37 @@ health and meat consumption, for example.
 The purpose of the websites' owner is to create a great community with the same interests who would help 
 and interact with each other while spreading awareness of the suffering of animals in meat and dairy industries.
 
-# H1 User Stories
-1. as a website visitor, I want see information about creator.
-2. purpouse of creating this side
-3. interesting recipes
-4. How veganism can help me
-5. How i can help /join to him
-6. opinions of the other visitors
-7.optionally text chat with vegansociety
+## As a first time visitor.
+1. as a visitor, I want see information about creator.
+2. as a visitor, I want see purpouse of creating this side.
+3. as a visitor, I want to know why they created this Activism.
+4. as a visitor, I want to know how to get in contact with them.
+5. As a visitor, I want to know how i can help /join to them.
+6. As a visitor, I want to see imiges how they work.
+7. As a visitor, I want to know who help them and how big is that group.
+8. As a visitor, I want learn interesting recipes.
+9. As a visitor, I want to know how veganism can help me.
+10. As a visitor, I want to know differents about vegan diet and no meat one.
+11. As a visitor, I want to know what changes in my body i will get in the while no eating meet.
+12. As a visitor, I want to know what aspects are helping my body and what deficit has this diet.
+13. As a visitor, I want to use text chat with vegansociety. (optionally)
+## As a frequent visitor.
+1. As a frequent visitor, I want to see updated sites.
+2. As a frequent visitor, I want to know story is continued.
+3. As a frequent visitor, I want to see progress in activism/actions.
+4. As a frequent visitor, I want to know succesed/unsuccesd of thems work.
+5. As a frequent visitor, I am curious how last event get succesed.
+6. As a frequent visitor, I will appriciate .
+7. As a frequent visitor, I want to know how i can get in touch with them.
+8. As a frequent visitor, I want to know every known and learned by them way to get rid of deficities.
 
+# Design 
+
+## Wireframes 
+![Wireframe](/workspace/vegan-project/Wireframe/Project.pdf?raw=true)
+
+## Coloristic
+![colours](/workspace/vegan-project/colours.pdf?raw=true)
 ## To this Project i used 
 https://simpleveganblog.com/
 https://www.vegansociety.com/news/blog/quiet-vegan-activism
@@ -37,11 +59,6 @@ https://www.veganrecipeclub.org.uk/
 https://viva.org.uk/planet/
 https://scarydairy.org.uk/
 
-
-## Technologies Used 
-1.Html to write code .
-2.Css to design the project.
-3.Bootstrap to simple code designes
 
 ## Testing
 

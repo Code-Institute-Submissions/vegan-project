@@ -45,10 +45,14 @@ and interact with each other while spreading awareness of the suffering of anima
 # Design 
 
 ## Wireframes 
-![Wireframe](/workspace/vegan-project/Wireframe/Project.pdf?raw=true)
-
+Draw Wireframe 
+Design 
 ## Coloristic
-![colours](/workspace/vegan-project/colours.pdf?raw=true)
+In the whole project main colour is green , in all of them i am showing many pictures thats why i think this colour will give them responsive design.
+Many boxes are having different picture background.
+My links and hover element in menu is blue 
+In the Main page i was forced by the picture background to change box colour at grey .
+One of my navigation bars is white with black icons of Facebook ,Instagram,Tweeter.
 ## To this Project i used 
 https://simpleveganblog.com/
 https://www.vegansociety.com/news/blog/quiet-vegan-activism
@@ -58,6 +62,25 @@ https://30dayvegan.viva.org.uk//
 https://www.veganrecipeclub.org.uk/
 https://viva.org.uk/planet/
 https://scarydairy.org.uk/
+
+## Features
+
+In the project u will see 4 sections:
+*Main Page
+*About Us
+*Activism
+*Contact
+
+Every section has disigned the same navigation menu bar what contain (from the left side)
+Logo , Main , Activism , Contact Pages with sticky position and hover element on the top of Project and another navigation bar on the right side with social media
+navigated to Facebook, Twitter and Instagram.
+Under the Menu bar positioned is my title Vegan for Voiclees in every page on the different background.
+
+*!1  
+
+
+
+
 
 
 ## Testing

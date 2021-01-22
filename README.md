@@ -76,7 +76,37 @@ Logo , Main , Activism , Contact Pages with sticky position and hover element on
 navigated to Facebook, Twitter and Instagram.
 Under the Menu bar positioned is my title Vegan for Voiclees in every page on the different background.
 
-*!1  
+1. MAin Page:
+
+My title (Organization name) on the not typical background with two cows on the mountains.
+On the picture is short introduction personality and picture of himself .
+Under cows background are located three short stories why and how it happend that he became vegan and he wanted this activist webside come true.
+
+2.About Us
+
+Title is located on the green background under menu bar .
+I shared this side at two parts .On the right side are six pictures with different people and slogans on the red background.
+In the mobile version u can see picture under picture ( one by one ) and on the computer devices on the line are two of them.
+Left side is started with short description of the organization on the traditional green background.
+Under i put Video with the great speach about help needed for our planet , as last point in that side i decided to introduce two people Vice manager of activisms and Corespondent manager , by short stories how and why they become them and minimalise picture .
+
+3.Activism
+
+On the background picture full of activists i state the Title.
+We can find there also short text on the middle of picture on the white background.
+I located under this four picture on the green background with text animation.
+Suffering duck picture is first ,when cursor is on text show on and show of when cursor is not on the box.
+Texts are created in order to show the people how they can help this poor animals and what is happening for them in the industries,army research and laboratorys.
+The rest pictures have the same effects and text about the same order but different content ,second picture is with pigs suffering in industrie, third its the rabbits in laboratory and the last one thats the monkey in cage used for military research. 
+
+4.Contact
+
+As the name is saing thats the side with contact informations and where people can send e-mail to owner.
+This side doasnt have title under , under the menu i put instead Contact inscription .
+On the left side under the contact inscription is located E-mail label from who is massege ,on the right side i state massege box .
+Everything is finished by submit button on the right side of massege box.
+
+
 
 
 

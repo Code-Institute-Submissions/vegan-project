@@ -66,10 +66,10 @@ https://scarydairy.org.uk/
 ## Features
 
 In the project u will see 4 sections:
-*Main Page
-*About Us
-*Activism
-*Contact
+* Main Page
+* About Us
+* Activism
+* Contact
 
 Every section has disigned the same navigation menu bar what contain (from the left side)
 Logo , Main , Activism , Contact Pages with sticky position and hover element on the top of Project and another navigation bar on the right side with social media

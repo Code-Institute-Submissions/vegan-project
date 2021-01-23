@@ -42,8 +42,6 @@ and interact with each other while spreading awareness of the suffering of anima
 7. As a frequent visitor, I want to know how i can get in touch with them.
 8. As a frequent visitor, I want to know every known and learned by them way to get rid of deficities.
 
-# Design 
-
 ## Wireframes 
 Draw Wireframe 
 Design 
@@ -106,14 +104,28 @@ This side doasnt have title under , under the menu i put instead Contact inscrip
 On the left side under the contact inscription is located E-mail label from who is massege ,on the right side i state massege box .
 Everything is finished by submit button on the right side of massege box.
 
+# Technology Used :
+
+## Programing Languages:
+* HTML - Was used to build structure of Dashboard.
+* Css - describe the appearance of a website.
+
+## Libraries:
+
+* Bootstrap - It's really usefull framework based on Css , i used it for the menu bar.
+* FontAwesome - Font Icons Library used mainly for social media.
+* Google Fonts - Full of text fonts , in my project i used one of them.
+
+## Coding and Storing Platforms:
+* Gitpod - Platform used for coding and storing repository.
+* Visual Studio Code - the same as Gitpod i corected my project there as on the Gitpod i get the limit.
+* Github - Store final version of my Project.
+
+# Testing:
+
+## Code Validation:
 
 
-
-
-
-
-
-## Testing
 
 ## Deployment
 

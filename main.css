@@ -203,15 +203,12 @@ box-shadow:2px 2px 8px 0 rgba(0, 0, 0,.4);
 border-bottom: 4px solid rgba(0, 0, 0,.4);
 }
 /*<--imgbox-->*/.box3 {
-    display : relative;
     float: left;
     max-width: 40%;
     max-height: 300px;
 }
 /*<--contentbox-->*/.textLead {
 text-align: center;
-font-weight: 50%;
-
 }
 /*<--img-->*/.picture2 {
 width: 100%;
@@ -399,7 +396,7 @@ text-transform : uppercase;
 letter-spacing : 1px;
 }
 .contentActive {
-max-width: 100%px;
+max-width: 100%;
 padding: 10px;
 }
 .hero-area {

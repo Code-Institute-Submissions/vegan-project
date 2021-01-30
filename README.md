@@ -4,105 +4,117 @@ Jakub994/vegan-project
 ##  My first User Centric Frontend Development Milestone Project for Code Institute.
 I was required to create a Milestone Project based on everything I learned so far.
 The project will consist of a blog website, and I will be using the first three modules of the course, mainly. 
-In this case, I am going to use HDML for the writing, CSS to design the website itself and Bootstrap
+In this case, I am going to use HTML for the writing, CSS to design the website itself and Bootstrap
 in order to build a mobile version.
+
+# Idea
+I had many ideas for my first project,
+As its my first one i wanted to use content about i know something. I decided to created vegan activist website as i thought restaurant project will be to often used idea , also i wanted to share information what i learned in the past.
 
 # UXac
 
-The content creator of the website is a vegan activist who wants to share helpful information, such as 
-food recipes, activism events' times and locations, tips for sustainability...
-In addition, there will be links to external websites to support the content creator's articles with different types 
-of media by certified professionals, including videos, documentaries, podcasts...
-This way, the readers will have a go-to site in case unsure about what to cook but also medical studies related to 
-health and meat consumption, for example.
-The purpose of the websites' owner is to create a great community with the same interests who would help 
-and interact with each other while spreading awareness of the suffering of animals in meat and dairy industries.
+The content creator of the website is a vegan activist who wants to share information, such as how his group became the vegans and how people interested in help can do it.
 
-## As a first time visitor.
-1. as a visitor, I want see information about creator.
-2. as a visitor, I want see purpouse of creating this side.
-3. as a visitor, I want to know why they created this Activism.
-4. as a visitor, I want to know how to get in contact with them.
-5. As a visitor, I want to know how i can help /join to them.
-6. As a visitor, I want to see imiges how they work.
-7. As a visitor, I want to know who help them and how big is that group.
-8. As a visitor, I want learn interesting recipes.
-9. As a visitor, I want to know how veganism can help me.
-10. As a visitor, I want to know differents about vegan diet and no meat one.
-11. As a visitor, I want to know what changes in my body i will get in the while no eating meet.
-12. As a visitor, I want to know what aspects are helping my body and what deficit has this diet.
-13. As a visitor, I want to use text chat with vegansociety. (optionally)
-## As a frequent visitor.
-1. As a frequent visitor, I want to see updated sites.
-2. As a frequent visitor, I want to know story is continued.
-3. As a frequent visitor, I want to see progress in activism/actions.
-4. As a frequent visitor, I want to know succesed/unsuccesd of thems work.
-5. As a frequent visitor, I am curious how last event get succesed.
-6. As a frequent visitor, I will appriciate .
-7. As a frequent visitor, I want to know how i can get in touch with them.
-8. As a frequent visitor, I want to know every known and learned by them way to get rid of deficities.
+It will be website where the visitors can experience story of the normal person and his friends as them who change himself on pourposs to help animals. That might to motivate the others to help and show them easy way to.
+
+## As a visitor.
+1. As a visitor, I want to know story what can bring me closer to the Subject.
+2. As a visitor, I want to see as it has members and could exist.
+3. As a visitor, I want to be motivated to help.
+4. As a visitor, I want to get ideas how help.
+5. As a visitor, I will contact them if i am going to be interest
+
+## As a Owner.
+1. As a owner, I want to share my story and pourpose of existance my activisms.
+2. As a owner, I want to show with who i am working to make visitor sure that i am not alone in this
+3. As a owner, I want to make visitors feel as we need them to help.
+4. As a owner, I want to give them ideas how to help us.
+5. As a owner, I want to give them option to contact us and ask whatever they want.
+
+# Owner Requirements and Expectations
+
+## Requirements
+
+* Provide information about owner
+* Information about his purpouse
+* Information about veganism
+* Provide motive to work content
+* Provide design matching to Subject
+* Provide a contact form on the top and down of the side
+
+## Expectation
+
+* Owner story should be interesting 
+* Text about Veganism should show good reasons to became one of them
+* content should motive visitors to help animals
+* Navigate visitors how they can help
+* Allow visitors contact Activist group
+
 
 ## Wireframes 
 Draw Wireframe 
 Design 
+
 ## Coloristic
-In the whole project main colour is green , in all of them i am showing many pictures thats why i think this colour will give them responsive design.
+Main colour of whole project is green, Project is full of nature pictures thats why i think this colour will give them responsive design.
 Many boxes are having different picture background.
-My links and hover element in menu is blue 
-In the Main page i was forced by the picture background to change box colour at grey .
-One of my navigation bars is white with black icons of Facebook ,Instagram,Tweeter.
-## To this Project i used 
-https://simpleveganblog.com/
-https://www.vegansociety.com/news/blog/quiet-vegan-activism
-https://animaljusticeproject.com/blog/
-https://www.milliondollarvegan.com/what-really-happens-to-your-body-when-you-go-vegan/
-https://30dayvegan.viva.org.uk//
-https://www.veganrecipeclub.org.uk/
-https://viva.org.uk/planet/
-https://scarydairy.org.uk/
+You will see here many easy and interesting ideas how to prepare content as navigation bars ,contact page ,different way to use imigies in design program as Css .
 
 ## Features
 
-In the project u will see 4 sections:
-* Main Page
-* About Us
+In the project you will see 4 sections:
+* Home 
+* About
 * Activism
 * Contact
 
 Every section has disigned the same navigation menu bar what contain (from the left side)
-Logo , Main , Activism , Contact Pages with sticky position and hover element on the top of Project and another navigation bar on the right side with social media
-navigated to Facebook, Twitter and Instagram.
-Under the Menu bar positioned is my title Vegan for Voiclees in every page on the different background.
+ Home ,About, Activism , Contact Page positioned whole time on the top of page even while scrolling down. Another navigation bar on the right side with social media
+navigated to Facebook, Instagram, Tweeter and Youtube.
+Everyone has different background colour with similar design and the same icon,hover colour.
 
-1. MAin Page:
+Icons are white with blue hover effect while cursor is pointing on it.
+All of them having they own icons and colour resembling to navigated website.
+Facebook is dark blue; Instagram, pink; Twitter, light blue and Youtube, red.
 
-My title (Organization name) on the not typical background with two cows on the mountains.
-On the picture is short introduction personality and picture of himself .
-Under cows background are located three short stories why and how it happend that he became vegan and he wanted this activist webside come true.
+Under the Menu bar positioned is title Vegan for the Voiclees with logo, Each time on the different background. 
 
-2.About Us
+As i put social media bar on the left side of the page as footer i wrote simple question to visitors with navigation button to contact page. For me it make sens.
 
-Title is located on the green background under menu bar .
-I shared this side at two parts .On the right side are six pictures with different people and slogans on the red background.
-In the mobile version u can see picture under picture ( one by one ) and on the computer devices on the line are two of them.
-Left side is started with short description of the organization on the traditional green background.
-Under i put Video with the great speach about help needed for our planet , as last point in that side i decided to introduce two people Vice manager of activisms and Corespondent manager , by short stories how and why they become them and minimalise picture .
+1. Home :
+Page is started as everyone with menu bar on the top and social bar on left side.
+Under the Menu bar i positioned the imige-background with switzerland´s nature and two cows .
 
-3.Activism
+On the picture i introduced main hero of the website in order to start his sory under that.
+
+I wrote three storys ,how he became a vegan under the background with the cows.
+* First story is about his first vegan diet´s when he started.
+* Second story is about his research after became vegan.
+* Third it´s actually start the activist group idea.
+
+2. About Us
+
+Title and logo are located on the green background under menu bar and right side from the social media bar.
+Next content what i decided to add its introdution two persons from activism group in the separate boxes, one of them is young lady and second is young gentelman.
+To introdution i used one picture each with short introdution text on the white box .
+
+Under them i set the video with motivation speach from old and smart gentelman Philip Wollen .
+
+On the light background after the video I shall position introdution of the whole Activism group with their thoughts what they should do.
+
+Whole page i will finish by pictures of all kind with short slogans.
+3. Activism
 
 On the background picture full of activists i state the Title.
 We can find there also short text on the middle of picture on the white background.
 I located under this four picture on the green background with text animation.
-Suffering duck picture is first ,when cursor is on text show on and show of when cursor is not on the box.
+Suffering duck picture is first ,when cursor is on ,text show on and show of when cursor is not on the box.
 Texts are created in order to show the people how they can help this poor animals and what is happening for them in the industries,army research and laboratorys.
-The rest pictures have the same effects and text about the same order but different content ,second picture is with pigs suffering in industrie, third its the rabbits in laboratory and the last one thats the monkey in cage used for military research. 
+The rest pictures have the same effects and text about the same order but different content ,second picture is with pigs suffering in industries, third its the rabbits in laboratorys and the last one thats the monkey in cage used for military research. 
 
-4.Contact
+4. Contact
 
-As the name is saing thats the side with contact informations and where people can send e-mail to owner.
-This side doasnt have title under , under the menu i put instead Contact inscription .
-On the left side under the contact inscription is located E-mail label from who is massege ,on the right side i state massege box .
-Everything is finished by submit button on the right side of massege box.
+As the name is saing this is the contact page where visitor can text owner and ask him or provide him any informations.
 
 # Technology Used :
 
@@ -112,7 +124,7 @@ Everything is finished by submit button on the right side of massege box.
 
 ## Libraries:
 
-* Bootstrap - It's really usefull framework based on Css , i used it for the menu bar.
+* Bootstrap - It's really usefull framework based on Css , i used it for the menu bar navigation bar and design mobile version.
 * FontAwesome - Font Icons Library used mainly for social media.
 * Google Fonts - Full of text fonts , in my project i used one of them.
 
@@ -122,6 +134,7 @@ Everything is finished by submit button on the right side of massege box.
 * Github - Store final version of my Project.
 
 # Testing:
+
 
 ## Code Validation:
 

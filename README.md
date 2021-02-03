@@ -3,52 +3,55 @@ Jakub994/vegan-project
 # Jakub Ostaszewski
 ##  My first User Centric Frontend Development Milestone Project for Code Institute.
 I was required to create a Milestone Project based on everything I learned so far.
-The project will consist of a blog website, and I will be using the first three modules of the course, mainly. 
-In this case, I am going to use HTML for the writing, CSS to design the website itself and Bootstrap
-in order to build a mobile version.
+The project will be a blog website, for which I will be using the first three modules of the course, mainly. 
+In this case, I am going to use HTML to write all the texts, CSS to design the website itself and Bootstrap in order to build a mobile version.
 
 # Idea
-I had many ideas for my first project,
-As its my first one i wanted to use content about i know something. I decided to created vegan activist website as i thought restaurant project will be to often used idea , also i wanted to share information what i learned in the past.
+At first, the project was going to be a restaurant's website.
+As it is my first milestone project, I wanted to use as much knowledge as possible from what I learned during the course. Therefore, I decided to create a vegan activism website instead, as I thought this idea is more innovative and original; and also, it allows me to share a bit of my own ideals.
 
 # UXac
 
-The content creator of the website is a vegan activist who wants to share information, such as how his group became the vegans and how people interested in help can do it.
+The content creator of the website is a group of animal rights activists.
+Fistly, their main goal is to share information in order to, not only spread awareness and help end the animal abuse, but also help people make more healthy food choices such as a plant based diet, which would also have a better impact in our environment.
 
-It will be website where the visitors can experience story of the normal person and his friends as them who change himself on pourposs to help animals. That might to motivate the others to help and show them easy way to.
+Also, the website will be used as a platform where those interested in making the switch to a vegan lifestyle will be able to find tips, others' expieriences, activism speeches...
+
+Furthermore, visitors will also be able to read the group's story on their origin as vegan and why they decided to join the fight for animals rights.
 
 ## As a visitor.
-1. As a visitor, I want to know story what can bring me closer to the Subject.
-2. As a visitor, I want to see as it has members and could exist.
-3. As a visitor, I want to be motivated to help.
-4. As a visitor, I want to get ideas how help.
-5. As a visitor, I will contact them if i am going to be interest
+1. As a visitor, I want to know what all this is about and how it started.
+2. As a visitor, I want be shown ways to get involved to help the cause.
+3. As a visitor, I would like to make part of a growing community.
+4. As a visitor, I want to find ideas on how to sart being vegan.
+5. As a visitor, I want to be able to contact the group, in case of need.
 
-## As a Owner.
-1. As a owner, I want to share my story and pourpose of existance my activisms.
-2. As a owner, I want to show with who i am working to make visitor sure that i am not alone in this
-3. As a owner, I want to make visitors feel as we need them to help.
-4. As a owner, I want to give them ideas how to help us.
-5. As a owner, I want to give them option to contact us and ask whatever they want.
+## As the Owner.
+1. As the owner, I want to share my story and my goal as an activist.
+2. As the owner, I want to make visitors realize that animals need their help.
+3. As the owner, I want to show everyone, the group whose work is behind this project.
+4. As the owner, I want to give the visitor as many resources as needed to become vegan.
+4. As the owner, I want to give them ideas on how to help the animals.
+5. As the owner, I want to give the visitor the chance to contact us if they have any questions or suggestions.
 
 # Owner Requirements and Expectations
 
 ## Requirements
 
-* Provide information about owner
-* Information about his purpouse
-* Information about veganism
-* Provide motive to work content
-* Provide design matching to Subject
-* Provide a contact form on the top and down of the side
+* Provide some insights about the owner.
+* State his purpouse.
+* Educate about veganism.
+* Provide direct instructions on how to help animals.
+* Provide a contact link to the different social networks of the website.
+* Set all the above in a design matching to the subject.
 
 ## Expectation
 
-* Owner story should be interesting 
-* Text about Veganism should show good reasons to became one of them
-* content should motive visitors to help animals
-* Navigate visitors how they can help
-* Allow visitors contact Activist group
+* Visitor's experience should be both fun and educative. 
+* The introduction to Veganism should show reasons good enough to adopt this lifestyle.
+* The content itself should motivate visitors to want to get involved.
+* The visitors should leave the website knowing exactly what actions to take in order to help the cause.
+* The visitors should be able to find the contact details of the content creators.
 
 
 ## Wireframes 
@@ -56,56 +59,53 @@ Draw Wireframe
 Design 
 
 ## Coloristic
-Main colour of whole project is green, Project is full of nature pictures thats why i think this colour will give them responsive design.
-Many boxes are having different picture background.
-You will see here many easy and interesting ideas how to prepare content as navigation bars ,contact page ,different way to use imigies in design program as Css .
+The website's background color is green. Since there are many pictures of nature, I think this color will make a cohersive design.
+Many text boxes have different images as a background.
+In addition, I wanted the social media icons keep their original colors in order to make them easy to recognize.
+Therefore, Facebook is dark blue; Instagram, pink; Twitter, light blue and Youtube, red.
 
 ## Features
 
-In the project you will see 4 sections:
+The website will consist of 4 sections:
 * Home 
 * About
 * Activism
 * Contact
 
-Every section has disigned the same navigation menu bar what contain (from the left side)
- Home ,About, Activism , Contact Page positioned whole time on the top of page even while scrolling down. Another navigation bar on the right side with social media
-navigated to Facebook, Instagram, Tweeter and Youtube.
-Everyone has different background colour with similar design and the same icon,hover colour.
+The navigation menu bar includes (from left to right) a Home, About, Activism and Contact section.
+As the menu bar is not static, it moves along in every section, so it is visible the whole time, even while scrolling down.
+There is another navigation bar on the left side with the social media links to Facebook, Instagram, Twitter and Youtube.
+Each one of them have a different background color with a similar design but different icon.
+Icons are white with a blue hover effect when the cursor is pointing on them.
 
-Icons are white with blue hover effect while cursor is pointing on it.
-All of them having they own icons and colour resembling to navigated website.
-Facebook is dark blue; Instagram, pink; Twitter, light blue and Youtube, red.
+The title ( ``Vegan for the Voiclees´´) and the logo, move along as the menu bar on every section, each time with a different background. 
 
-Under the Menu bar positioned is title Vegan for the Voiclees with logo, Each time on the different background. 
-
-As i put social media bar on the left side of the page as footer i wrote simple question to visitors with navigation button to contact page. For me it make sens.
+As I put the social media bar on the left side of the page as footer, the visitors are asked for their feedback next to a navigation button that leads to the contact section.
 
 1. Home :
-Page is started as everyone with menu bar on the top and social bar on left side.
-Under the Menu bar i positioned the imige-background with switzerland´s nature and two cows .
+I kept this section simple by setting a moving menu bar on the very top and the social media links on left side.
+Under the Menu bar, I chose a picture of two cows in a green valley as a backgroud.
 
-On the picture i introduced main hero of the website in order to start his sory under that.
+The next picture shows the main creator of the project in order to add a short text introducing him below.
 
-I wrote three storys ,how he became a vegan under the background with the cows.
-* First story is about his first vegan diet´s when he started.
-* Second story is about his research after became vegan.
-* Third it´s actually start the activist group idea.
+This narrative, started on top of the cows picture background and continued right under other three pictures, covers three parts: 
+* First, when he became a vegan and what his diet was like back then.
+* Next, there is a mention to his research about this movement.
+* And finally, the idea to start the activist group and the website.
 
 2. About Us
 
-Title and logo are located on the green background under menu bar and right side from the social media bar.
-Next content what i decided to add its introdution two persons from activism group in the separate boxes, one of them is young lady and second is young gentelman.
-To introdution i used one picture each with short introdution text on the white box .
+The title and the logo are located right under menu bar.
+Next, I added two pictures and an introdution text of these group memebers in separate white boxes,
+both on the right of each picture.
+Under that, I putplaced the motivational speech video by Philip Wollen .
 
-Under them i set the video with motivation speach from old and smart gentelman Philip Wollen .
+After the video, the is a white background text box about the origin of the group as if written by the members themselves.
+The rest of the section is made up by pictures of the remaining group members and their reason to go vegan on top of each picture.
 
-On the light background after the video I shall position introdution of the whole Activism group with their thoughts what they should do.
-
-Whole page i will finish by pictures of all kind with short slogans.
 3. Activism
 
-On the background picture full of activists i state the Title.
+On the background picture full of activists I stated the Title.
 We can find there also short text on the middle of picture on the white background.
 I located under this four picture on the green background with text animation.
 Suffering duck picture is first ,when cursor is on ,text show on and show of when cursor is not on the box.
@@ -114,72 +114,104 @@ The rest pictures have the same effects and text about the same order but differ
 
 4. Contact
 
-As the name is saing this is the contact page where visitor can text owner and ask him or provide him any informations.
+As the name indicates, this section is where visitors will be able to get in touch with the owner, ask questions and make any suggestions.
+
+There are several text boxes which include: name, email address, phone number and message.
 
 # Technology Used :
 
 ## Programing Languages:
-* HTML - Was used to build structure of Dashboard.
-* Css - describe the appearance of a website.
+* HTML - Was used to build the Dashboard structure.
+* Css - describes the appearance of a website.
 
 ## Libraries:
 
-* Bootstrap - It's really usefull framework based on Css , i used it for the menu bar navigation bar and design mobile version.
-* FontAwesome - Font Icons Library used mainly for social media.
-* Google Fonts - Full of text fonts , in my project i used one of them.
+* Bootstrap - It is a really useful framework based on Css , I used it for the menu bar navigation bar and to design mobile version.
+* Bootstrap fonts - Font Icons Library used mainly for  the social media.
+* Google Fonts - Full of text fonts, in my project I used one of them.
 
 ## Coding and Storing Platforms:
 * Gitpod - Platform used for coding and storing repository.
-* Visual Studio Code - the same as Gitpod i corected my project there as on the Gitpod i get the limit.
+* Visual Studio Code - the same as Gitpod I corrected my project there as on the Gitpod I get the limit.
 * Github - Store final version of my Project.
 
 # Testing:
 
+I tested every link manually.
+The menu bar works correctlly.
+All the social media links are responding.
+The contact button leads to the contact section.
+iframe works correctly.
+All the pictures look clear.
+I fixed each and every debug.
 
-## Code Validation:
+## Code validators
+* Css validator - https://jigsaw.w3.org/css-validator/#validate_by_upload
 
+1. main.css -Css validator showed me three simple errors, so I fixed them imediatelly.
 
+* HTML validator - https://validator.w3.org/
 
-## Deployment
+1. Index.html - showed me 2 warnings "Section lacks heading"
+I ignored that because I know it can apear.
+2. About.html - showed me 4 Warnings "Section lacks heading"
+I ignored that because I know it can apear.
+3. Active.html - showed me 1 Warning "Section lacks heading"
+I ignored that because I know it can apear.
+4. Contact.html - No errors or warnings to show .
 
-## Credits
+## Responsiveness 
 
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+* I tested every button throughout the process of building the site.
+* I checked what my website would respond and look like on the several device sizes using the "Toogle device toolbar" tool from Google Chrome.
+* I checked my website on this site http://ami.responsivedesign.is/  
+## Bugs
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Iniatially, I could not seperate my CSS file from HTML files, since everytime I tried, CSS stopped responding. Eventually, I added all the files together in the same folder
+I first created a video comment section to add a youtube link, but the video was not appearing on the section, so I decided to copy the Iframe from youtube.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+# Contact
+
+I checked my Contact section form :
+* by typing on each field - it typed as it should
+* if I didn´t write @ on the email field it shows me error "Please include an @..."
+* 
 
 Contact form:
-Go to the "Contact Us" page
+Go to the "Contact" section
 Try to submit the empty form and verify that an error message about the required fields appears
 Try to submit the form with an invalid email address and verify that a relevant error message appears
 Try to submit the form with all inputs valid and verify that a success message appears.
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+# Deployment
+The project was hosted in Github, manually from my PC as I used the 50h avalaible every month to use this program:
+I deployed them in the following way:
+* I opened my vegan project in github 
+* I pressed Add file button 
+* Choose upload files
+* From the options drag or choose files, I clicked on the second one to add all my files to the project.
+* Later I scrolled down and clicked on the commit changes button to saved all this changes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+# Credits
+## Images
+* All the pictures on the website came were downloaded from random websites.
+* The icons used are from bootstrap fonts library. 
+## Video
+* Inspirational speech by Philip Wollen - https://www.youtube.com/embed/vBx7MGIZ1fU
+## Text
+* Most of the text in about.html and active.html was made up, based on influencer activists I actually follow on social media.
+* The rest, is a mix of personal stories of my own or people I have met at events or fairs.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+# Inspiration
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+My inspiration was my girlfriend and, since we both are vegan, our lifestyle.
+As we have performed deep researches about this subject, I thought it is a practical and exciting idea to create a blog for activists.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+If eventually, I have to create something similar for an employer, I will already know a lot about the subject.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+# Acknowledgements
 
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
-
+I really want to thank to whole team from Code Institute for their constant support and periodic checks on my performance, and besides, for the huge amount of resources and useful material provided, which made this project possible.
 
 
 

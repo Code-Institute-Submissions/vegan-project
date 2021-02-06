@@ -177,10 +177,9 @@ I first created a video comment section to add a youtube link, but the video was
 
 I checked my Contact section form :
 * by typing on each field - it typed as it should
-* if I didn´t write @ on the email field it shows me error "Please include an @..."
-* When i click submit button while form is empty error message about required fields appear 
-* i tried submit invalid email address and error message appears
-* i submited the form with inputs valid and massege Cannot POST /workspace/vegan-project/index.html appear.
+* The email field must contain the "@" symbol. Otherwise, the form cannot be submitted and it will show up this message: "Please include an @ in your email address"
+* If the send button is clicked but any of the form fields is empty, an error message will appear asking the visitor to fill all the fields. 
+* I tried to submit an invalid email address and error message appears
 
 # Deployment
 The project was hosted in Github, manually from my PC as I used the 50h avalaible every month to use this program:

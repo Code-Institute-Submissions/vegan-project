@@ -178,7 +178,7 @@ I first created a video comment section to add a youtube link, but the video was
 I checked my Contact section form :
 * by typing on each field - it typed as it should
 * if I didn´t write @ on the email field it shows me error "Please include an @..."
-* 
+* When i click submit button 
 
 Contact form:
 Go to the "Contact" section

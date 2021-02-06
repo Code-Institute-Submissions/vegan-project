@@ -56,6 +56,7 @@ Furthermore, visitors will also be able to read the group's story on their origi
 
 ## Wireframes 
 Draw Wireframe 
+https://github.com/Jakub1994/vegan-project/blob/master/146502469_440169853840640_4192095782691373446_n.jpg
 Design 
 
 ## Coloristic

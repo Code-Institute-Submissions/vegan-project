@@ -166,19 +166,22 @@ they worked correctly as the video in Activism side.
 Home,About and Activism pages has the botton at down of the page.
 Buttons work .
 ## Code validators
-* Css validator - https://jigsaw.w3.org/css-validator/#validate_by_upload
+1. Css validator - https://jigsaw.w3.org/css-validator/#validate_by_upload
 
-1. main.css -Css validator showed me three simple errors, so I fixed them imediatelly.
+* main.css -Css validator showed me three simple errors, so I fixed them imediatelly.
 
-* HTML validator - https://validator.w3.org/
+2. HTML validator - https://validator.w3.org/
 
-1. Index.html - showed me 2 warnings "Section lacks heading"
-2. About.html - showed me 4 Warnings "Section lacks heading"
-3. Active.html - showed me 1 Warning "Section lacks heading"
-4. Contact.html - No errors or warnings to show.
+* Index.html - showed me 2 warnings "Section lacks heading"
+* About.html - showed me 4 Warnings "Section lacks heading"
+* Active.html - showed me 1 Warning "Section lacks heading"
+* Contact.html - No errors or warnings to show.
 
 All the above warnings were expected as heading were not added on purpose. Therefore, the warnings were not eliminated.
 
+3. Performance Lighthouse in Chrome Devtools 
+
+* https://github.com/Jakub1994/vegan-project/blob/master/tests/performancetest.png?raw=true
 ## Responsiveness 
 
 * I tested every button throughout the process of building the site.

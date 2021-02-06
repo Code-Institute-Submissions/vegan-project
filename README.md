@@ -56,7 +56,7 @@ Furthermore, visitors will also be able to read the group's story on their origi
 
 ## Wireframes 
 1. Draw Wireframe
-*  https://raw.githubusercontent.com/Jakub1994/vegan-project/master/146502469_440169853840640_4192095782691373446_n.jpg
+*  https://raw.githubusercontent.com/Jakub1994/vegan-project/master/wireframe/wireframe.jpg
 2. Design
 *  http://ami.responsivedesign.is/?url=http://8000-coral-thrush-jgct7d5y.ws-eu03.gitpod.io
 
@@ -81,7 +81,7 @@ There is another navigation bar on the left side with the social media links to 
 Each one of them have a different background color with a similar design but different icon.
 Icons are white with a blue hover effect when the cursor is pointing on them.
 
-The title ( ``Vegan for the Voiclees´´) and the logo, move along as the menu bar on every section, each time with a different background. 
+The title 'Vegan for the Voiclees' and the logo, move along as the menu bar on every section, each time with a different background. 
 
 As I put the social media bar on the left side of the page as footer, the visitors are asked for their feedback next to a navigation button that leads to the contact section.
 

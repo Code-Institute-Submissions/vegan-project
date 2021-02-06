@@ -193,13 +193,27 @@ I deployed them in the following way:
 
 # Credits
 ## Images
-* All the pictures on the website came were downloaded from random websites.
-* The icons used are from bootstrap fonts library. 
+1. All the pictures on the website came were downloaded from random websites:
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fepicprovisions.com%2Fblogs%2Fland-livestock%2Fmulti-species-operations&psig=AOvVaw2PDdvBbF6k863HZkvq-GGr&ust=1612707402835000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCpubG51e4CFQAAAAAdAAAAABAD
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gary_Yourofsky_%D7%92%D7%90%D7%A8%D7%99_%D7%99%D7%95%D7%A8%D7%95%D7%A4%D7%A1%D7%A7%D7%99.jpg/220px-Gary_Yourofsky_%D7%92%D7%90%D7%A8%D7%99_%D7%99%D7%95%D7%A8%D7%95%D7%A4%D7%A1%D7%A7%D7%99.jpg
+- https://media.gettyimages.com/photos/melbourne-chicken-save-rally-picture-id489978516?s=612x612
+- https://www.thenomadicvegan.com/wp-content/uploads/2020/02/Komune-Resort-and-Beach-Club-food-resized.jpg
+- https://previews.agefotostock.com/previewimage/medibigoff/7fea8f11f17731484d7628fd9c47cc9c/bwi-bs277513.jpg
+- https://animaljusticeproject.com/wp-content/uploads/2019/12/DSC01104-scaled.jpg
+- https://images.theconversation.com/files/312546/original/file-20200129-92969-1w87zke.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip
+- https://animaltestingpictures.com/wp-content/uploads/2020/04/rabbit_animal_testing_experiments_006.jpg
+2. The rest of the pictures i took from my girlfriend personal gallery
+3. The icons used are from bootstrap fonts library. 
+4. Logo - https://logomakr.com/7RXMx4
 ## Video
 * Inspirational speech by Philip Wollen - https://www.youtube.com/embed/vBx7MGIZ1fU
 ## Text
-* Most of the text in about.html and active.html was made up, based on influencer activists I actually follow on social media.
+* Most of the text in about.html and active.html was made up.
 * The rest, is a mix of personal stories of my own or people I have met at events or fairs.
+* https://animaljusticeproject.com/
+## Knowladge sides
+* https://www.w3schools.com/html/
+* https://courses.codeinstitute.net/
 
 # Inspiration
 

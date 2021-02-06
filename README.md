@@ -178,14 +178,10 @@ I first created a video comment section to add a youtube link, but the video was
 I checked my Contact section form :
 * by typing on each field - it typed as it should
 * if I didn´t write @ on the email field it shows me error "Please include an @..."
-* When i click submit button 
+* When i click submit button while form is empty error message about required fields appear 
+* i tried submit invalid email address and error message appears
+* i submited the form with inputs valid and massege Cannot POST /workspace/vegan-project/index.html appear.
 
-Contact form:
-Go to the "Contact" section
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 # Deployment
 The project was hosted in Github, manually from my PC as I used the 50h avalaible every month to use this program:
 I deployed them in the following way:

@@ -198,7 +198,27 @@ I deployed them in the following way:
 * Choose upload files
 * From the options drag or choose files, I clicked on the second one to add all my files to the project.
 * Later I scrolled down and clicked on the commit changes button to saved all this changes.
-
+# How to run Project locally:
+1. To clone this repo in Gitpod you need:
+* A Github account
+* Gitpod extension
+* Google Chrome
+1. Follow the next steps:
+* Download Google Chrome
+* Install Gitpod Extension
+* Restart the browser
+* Create Github account
+* Log in to Github account
+* Open following Github repository https://github.com/Jakub1994/vegan-project
+* click on the blue button Gitpod
+2. To work on the project within different platform:
+* go to: https://github.com/Jakub1994/vegan-project
+* click the button clone/download
+* with the clone of HTTPs section, copy the clone URL for the repository
+* in the local IDE open the terminal
+* Change the current directory to the location where u want clone it
+* Type Git clone .https://github.com/Jakub1994/vegan-project
+* Press Enter - it will create clone repository
 # Host 
 I hosted site in Github :
 1. I opened repository on GitHub.

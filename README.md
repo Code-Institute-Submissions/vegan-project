@@ -191,7 +191,7 @@ I checked my Contact section form :
 * I tried to submit an invalid email address and error message appears
 * As this project consists of Bootstrap, CSS and HTML only, the option to send the form it is available but not working, since Javascript would be needed for that and it does not make part of this project resources. However, if used, the form would actually be sent correctly.
 # Deployment
-The project was hosted in Github, manually from my PC as I used the 50h avalaible every month to use this program:
+The project was posted in Github, manually from my PC as I used the 50h avalaible every month to use this program:
 I deployed them in the following way:
 * I opened my vegan project in github 
 * I pressed Add file button 
@@ -199,6 +199,11 @@ I deployed them in the following way:
 * From the options drag or choose files, I clicked on the second one to add all my files to the project.
 * Later I scrolled down and clicked on the commit changes button to saved all this changes.
 
+# Host 
+I hosted site in Github :
+1. I opened repository on GitHub.
+2. I went to 'Settings'
+3. Under the section "Github Pages", i selected the master branch as the source. Then it shows me a green confirmation "Your site is published at: https://jakub1994.github.io/vegan-project/
 # Credits
 ## Images
 1. All the pictures on the website came were downloaded from random websites:

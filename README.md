@@ -55,10 +55,11 @@ Furthermore, visitors will also be able to read the group's story on their origi
 
 
 ## Wireframes 
-Draw Wireframe 
-https://raw.githubusercontent.com/Jakub1994/vegan-project/master/146502469_440169853840640_4192095782691373446_n.jpg
-Design 
-http://ami.responsivedesign.is/?url=https%3A%2F%2Fbrowser-coral-thrush-jgct7d5y.ws-eu03.gitpod.io%2Fworkspace%2Fvegan-project%2Findex.html#
+1. Draw Wireframe
+*  https://raw.githubusercontent.com/Jakub1994/vegan-project/master/146502469_440169853840640_4192095782691373446_n.jpg
+2. Design
+*  http://ami.responsivedesign.is/?url=http://8000-coral-thrush-jgct7d5y.ws-eu03.gitpod.io
+
 
 ## Coloristic
 The website's background color is green. Since there are many pictures of nature, I think this color will make a cohersive design.

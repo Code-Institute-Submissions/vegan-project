@@ -108,12 +108,21 @@ The rest of the section is made up by pictures of the remaining group members an
 
 3. Activism
 
-On the background picture full of activists I stated the Title.
-We can find there also short text on the middle of picture on the white background.
-I located under this four picture on the green background with text animation.
-Suffering duck picture is first ,when cursor is on ,text show on and show of when cursor is not on the box.
-Texts are created in order to show the people how they can help this poor animals and what is happening for them in the industries,army research and laboratorys.
-The rest pictures have the same effects and text about the same order but different content ,second picture is with pigs suffering in industries, third its the rabbits in laboratorys and the last one thats the monkey in cage used for military research. 
+As in the rest of the sections, the title is shown at the very top.
+The background selected is a vegan march picture and, on top of it,
+there is a white text box with a suggestive sentence.
+
+The remaining part of this section will consist of a green plain background containing the next:
+Right under the picture, there is another significative sentence within a text box.
+
+Following,  there are four different images of animals abused by the industries that either sell or test on them.
+The first one is a small duck who suffered some kind of an injury.
+The second one is a herd of young pigs in a small closed part of a farm.
+The next one is a picture of several rabbits kept on laboratories in order to be tested on.
+In the last picture there is a caged monkey used for millitary research.
+
+Under every picture there is a title for the texts that show up only when the cursor is on the any of them.
+These texts were created in order to show everyone how they can help this poor animals and what these industries are doing to them.
 
 4. Contact
 
@@ -125,26 +134,26 @@ There are several text boxes which include: name, email address, phone number an
 
 ## Programing Languages:
 * HTML - Was used to build the Dashboard structure.
-* Css - describes the appearance of a website.
+* Css - describes the appearance of the website.
 
 ## Libraries:
 
-* Bootstrap - It is a really useful framework based on Css , I used it for the menu bar navigation bar and to design mobile version.
-* Bootstrap fonts - Font Icons Library used mainly for  the social media.
-* Google Fonts - Full of text fonts, in my project I used one of them.
+* Bootstrap - It is a really useful framework based on Css , I used it for the menu navigation bar and to design the mobile version.
+* Bootstrap fonts - Font Icons Library used mainly for the social media bar.
+* Google Fonts - Full of different text fonts, I used only one of them for all the texts in the website.
 
 ## Coding and Storing Platforms:
 * Gitpod - Platform used for coding and storing repository.
-* Visual Studio Code - the same as Gitpod I corrected my project there as on the Gitpod I get the limit.
-* Github - Store final version of my Project.
+* Visual Studio Code - used for the same aim as Gitpod, once the limit amount of hours on this platform were reached.
+* Github - Used to store the final version of the project and also throughout the creation process for all the needed changes.
 
 # Testing:
 
 I tested every link manually.
 The menu bar works correctlly.
 All the social media links are responding.
-The contact button leads to the contact section.
-iframe works correctly.
+The 'contact' button leads to the contact section.
+Iframe works correctly.
 All the pictures look clear.
 I fixed each and every debug.
 
@@ -156,18 +165,18 @@ I fixed each and every debug.
 * HTML validator - https://validator.w3.org/
 
 1. Index.html - showed me 2 warnings "Section lacks heading"
-I ignored that because I know it can apear.
 2. About.html - showed me 4 Warnings "Section lacks heading"
-I ignored that because I know it can apear.
 3. Active.html - showed me 1 Warning "Section lacks heading"
-I ignored that because I know it can apear.
-4. Contact.html - No errors or warnings to show .
+4. Contact.html - No errors or warnings to show.
+
+All the above warnings were expected as heading were not added on purpose. Therefore, the warnings were not eliminated.
 
 ## Responsiveness 
 
 * I tested every button throughout the process of building the site.
-* I checked what my website would respond and look like on the several device sizes using the "Toogle device toolbar" tool from Google Chrome.
-* I checked my website on this site http://ami.responsivedesign.is/  
+* I checked if my website would respond and what it would look like on several device sizes using the "Toogle device toolbar" tool from Google Chrome.
+* I repeated the second step on the next site as well 
+  http://ami.responsivedesign.is/  
 ## Bugs
 
 Iniatially, I could not seperate my CSS file from HTML files, since everytime I tried, CSS stopped responding. Eventually, I added all the files together in the same folder
@@ -180,7 +189,7 @@ I checked my Contact section form :
 * The email field must contain the "@" symbol. Otherwise, the form cannot be submitted and it will show up this message: "Please include an @ in your email address"
 * If the send button is clicked but any of the form fields is empty, an error message will appear asking the visitor to fill all the fields. 
 * I tried to submit an invalid email address and error message appears
-
+* As this project consists of Bootstrap, CSS and HTML only, the option to send the form it is available but not working, since Javascript would be needed for that and it does not make part of this project resources. However, if used, the form would actually be sent correctly.
 # Deployment
 The project was hosted in Github, manually from my PC as I used the 50h avalaible every month to use this program:
 I deployed them in the following way:

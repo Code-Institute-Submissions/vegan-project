@@ -157,6 +157,14 @@ Iframe works correctly.
 All the pictures look clear.
 I fixed each and every debug.
 
+## Testing Stories
+
+Home>About>Activism>Contact
+
+I checked navigations in above current steps.
+they worked correctly as the video in Activism side.
+Home,About and Activism pages has the botton at down of the page.
+Buttons work .
 ## Code validators
 * Css validator - https://jigsaw.w3.org/css-validator/#validate_by_upload
 

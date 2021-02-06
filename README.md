@@ -57,8 +57,8 @@ Furthermore, visitors will also be able to read the group's story on their origi
 ## Wireframes 
 1. Draw Wireframe
 *  https://raw.githubusercontent.com/Jakub1994/vegan-project/master/wireframe/wireframe.jpg
-2. Design
-*  http://ami.responsivedesign.is/?url=http://8000-coral-thrush-jgct7d5y.ws-eu03.gitpod.io
+2. mockups
+*  http://ami.responsivedesign.is/?url=https://jakub1994.github.io/vegan-project/
 
 
 ## Coloristic
